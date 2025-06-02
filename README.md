@@ -28,7 +28,7 @@ Soy un **desarrollador Full Stack autodidacta** con más de 1 año y medio de ex
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | 🔐 [API con Spring Boot y JWT](https://github.com/JuanJoselopez03) | API REST con login, registro y autenticación por tokens | Java, Spring Boot, JWT, MySQL |
-| 📝 [Blog técnico en React](https://github.com/JuanJoselopez03) | CRUD completo de publicaciones con interfaz moderna | React, Vite, CSS |
+| 📝 [Blog técnico en React](https://github.com/JuanJoselopez03) | CRUD completo de publicaciones con interfaz moderna | React, SpringBoot, CSS |
 | 🎮 [Juego con IA en Java](https://github.com/JuanJoselopez03) | Juego interactivo con lógica programada | Java, Lógica personalizada |
 | 🧠 [Segundo juego con IA](https://github.com/JuanJoselopez03) | Juego interactivo con lógica programada y IA basada en decisiones estratégicas | Java, Lógica personalizada |
 | 🚧 [Proyectos en desarrollo](https://github.com/JuanJoselopez03) | App de notas, tablero tipo Trello y más | Full Stack |
