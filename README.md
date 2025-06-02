@@ -29,8 +29,8 @@ Soy un **desarrollador Full Stack autodidacta** con más de 1 año y medio de ex
 |---------|-------------|-------------|
 | 🔐 [API con Spring Boot y JWT](https://github.com/JuanJoselopez03) | API REST con login, registro y autenticación por tokens | Java, Spring Boot, JWT, MySQL |
 | 📝 [Blog técnico en React](https://github.com/JuanJoselopez03) | CRUD completo de publicaciones con interfaz moderna | React, Vite, CSS |
-| 🎮 [Juego con IA en JS](https://github.com/JuanJoselopez03) | Juego interactivo con lógica programada | JavaScript, HTML, CSS |
-| 🧠 [Segundo juego con IA](https://github.com/JuanJoselopez03) | IA basada en decisiones estratégicas | JS, Lógica personalizada |
+| 🎮 [Juego con IA en Java](https://github.com/JuanJoselopez03) | Juego interactivo con lógica programada | Java, Lógica personalizada |
+| 🧠 [Segundo juego con IA](https://github.com/JuanJoselopez03) | Juego interactivo con lógica programada y IA basada en decisiones estratégicas | Java, Lógica personalizada |
 | 🚧 [Proyectos en desarrollo](https://github.com/JuanJoselopez03) | App de notas, tablero tipo Trello y más | Full Stack |
 
 ---
@@ -39,7 +39,7 @@ Soy un **desarrollador Full Stack autodidacta** con más de 1 año y medio de ex
 
 <p align="center">
   <a href="mailto:juanjoselopez4509@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/juan-josé-lópez-peña-800221270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/JuanJoselopez03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
